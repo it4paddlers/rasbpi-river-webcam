@@ -9,3 +9,6 @@ There are some out-of-box outdoor security cam solutions on the market and some 
 * **scalability**: raspberry pis are very affordable and widely available, hence the number of river cams can be increased quickly if the solution proofs to be good. 
 * ...
 
+## Solution
+
+Currently only a prototype exists. The prototype solution is described in [solution.md](solution.md). 
